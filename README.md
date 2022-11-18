@@ -4,7 +4,7 @@ FixCrea Offline uses a linear regression model to approximate an enzymatically-d
 
 ## Online Resources
 
-Online deployment of Extreme Gradient Boosting model: https://fixcrea.onrender.com
+Online deployment of Extreme Gradient Boosting model: https://fixcrea.com or https://fixcrea.onrender.com
 
 Github repo site for machine learning training: https://github.com/fixcrea/fixcrea
 

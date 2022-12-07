@@ -33,6 +33,9 @@ FixCrea Offline uses a linear regression model to approximate an enzymatically-d
 - Make sure javascript is enabled to be able to use the model.
 
 ## Updates
+### 1.3 - 12.07.22
+- Renamed fixcrea_offline_SI_units.html to index.html
+
 ### 1.2 - 11.25.22
 - Renamed fixcrea_offline.html to fixcrea_offline_SI_units.html.
 - Created conventional units calculator: fixcrea_offline_conventional_units.html and fixcrea_offline_con.js.

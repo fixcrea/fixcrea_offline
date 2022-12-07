@@ -18,7 +18,7 @@ FixCrea Offline uses a linear regression model to approximate an enzymatically-d
 
 ## Files Included
 
-- The file index.html is the offline calculator app that uses SI units (umol/L).
+- The file fixcrea_offline_SI_units.html is the offline calculator app that uses SI units (umol/L).
 
 - The file fixcrea_offline_conventional_units is the offline calculator app that uses conventional units (mg/dL).
 

@@ -2,6 +2,8 @@
 
 FixCrea Offline uses a linear regression model to approximate an enzymatically-derived result for a given Jaffe-based creatinine result.
 
+Try it out: [Demo](https://fixcrea.github.io/fixcrea_offline/)
+
 ## Features
 - Simple and easy-to-use user interface.
 - Works offline with any browser as long as Javascript is enabled.
